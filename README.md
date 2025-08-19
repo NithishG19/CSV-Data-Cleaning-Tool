@@ -25,8 +25,3 @@ Show DataFrames: Preview the cleaned DataFrames before downloading.
 
 Download cleaned data: Download the cleaned data as separate CSV files or one big file.
 
-Requirements:
-
-Python 3.6 or higher
-Streamlit
-Pandas
